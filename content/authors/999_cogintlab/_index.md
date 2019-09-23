@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 
+name: Cognition and Intelligence Lab @ASU
 
 # Username (this should match the folder name)
 authors:
